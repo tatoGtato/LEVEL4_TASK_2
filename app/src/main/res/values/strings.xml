@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LEVEL4_TASK_2</string>
+    <string name="loading">Wait! its loading</string>
+    <string name="empty">Nothing found D:</string>
+    <string name="wrong">An error occurred</string>
+    <string name="search_movie_hint">Search for a movie by name</string>
+    <string name="fill">Type to find a movie!</string>
+    <string name="ov">Overview</string>
+</resources>
